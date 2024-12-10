@@ -1,0 +1,22 @@
+.gradle
+.idea
+*out/
+
+Account Service/
+Account Service (Java)/Attention to business
+Account Service (Java)/Create the service structure (API)
+Account Service (Java)/Logging events
+Account Service (Java)/Securing connection
+Account Service (Java)/Security first
+Account Service (Java)/The authorization
+Account Service (Java)/The authentication
+
+*lesson*.yml
+*lesson*.yaml
+*course*.yml
+*course*.yaml
+
+*.iml
+*.ipr
+*.iws
+*.jar
