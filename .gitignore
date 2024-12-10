@@ -1,6 +1,7 @@
 .gradle
 .idea
 *out/
+*build/
 
 Account Service/
 Account Service (Java)/Attention to business
