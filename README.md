@@ -8,3 +8,9 @@
 You can get started by cloning this repository and installing the dependencies:
 - Java SE 17
 
+## Regex Patterns
+
+We are using a couple of regular expressions in our code.
+These regex patters are tested via the [Online Regex parser: Regexr](https://regexr.com/).
+
+- Email: [Email regex](https://regexr.com/89rs5)
